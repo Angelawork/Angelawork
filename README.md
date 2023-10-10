@@ -1,8 +1,9 @@
 # 🌈Hey Hello Hi! I'm Angela Hu 🦈
 I'm currently pursuing a Bachelor of Science degree at McGill University, Majoring in CS & Minoring in Stats.
 
-* 🌱 I’m currently learning Java, Python, Bash and C
+* 🌱 Programming Languages: Java, Python, Bash, C, C#, R
 * 🔥 Connect with me through [LinkedIn](https://www.linkedin.com/in/2004angelahu)
+* ✨ Check out our project [Literalingo](https://sites.google.com/view/literalingo), 💡a translation app that will generate simple explanations catered to autistic individuals from texts in an image or copy-pasted into the app🎤
 * 📫 Reach me by: Qingchen.hu@mail.mcgill.ca
 <!--
 - ✨
