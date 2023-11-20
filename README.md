@@ -3,7 +3,9 @@ I'm currently pursuing a Bachelor of Science degree at McGill University, Majori
 
 * 🌱 Programming Languages: Java, Python, Bash, C, C#, R
 * 🔥 Connect with me through [LinkedIn](https://www.linkedin.com/in/2004angelahu)
-* ✨ Check out our project [Literalingo](https://sites.google.com/view/literalingo), 💡a translation app that will generate simple explanations catered to autistic individuals from texts in an image or copy-pasted into the app🎤
+* ✨ Check out my projects:
+  * [Literalingo](https://sites.google.com/view/literalingo), 💡a translation app that will generate simple explanations catered to autistic individuals from texts in an image or copy-pasted into the app🎤
+  * [MedAdvisor](https://github.com/Angelawork/Drug-Recommendation_MAIS202), 💊An accessible drug recommendation model, tailors medication suggestions to patients' symptoms for enhanced healthcare outcomes utilizes machine learning👩‍⚕️
 * 📫 Reach me by: Qingchen.hu@mail.mcgill.ca
 <!--
 - ✨
