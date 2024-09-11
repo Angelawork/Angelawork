@@ -1,9 +1,8 @@
 # 🌈Hey Hello Hi! I'm Angela Hu 🦈
 I'm currently pursuing a Bachelor of Science degree at McGill University, Majoring in Computer Science.
 * 🌱 Programming Languages: Java, Python, Bash, C, C#, R
-* 🔥 Connect with me through <a href="www.linkedin.com/in/2004angelahu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+* 🔥 Connect with me through <a href="https://www.linkedin.com/in/2004angelahu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 * ✨ Check out my projects:
   * [Literalingo](https://sites.google.com/view/literalingo), 💡a translation app that will generate simple explanations catered to autistic individuals from texts in an image or copy-pasted into the app🎤
   * [MedAdvisor](https://github.com/Angelawork/Drug-Recommendation_MAIS202), 💊An accessible drug recommendation model, tailors medication suggestions to patients' symptoms for enhanced healthcare outcomes utilizes machine learning👩‍⚕️
