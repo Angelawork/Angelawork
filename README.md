@@ -1,13 +1,53 @@
-# 🌈Hey Hello Hi! I'm Angela Hu 🦈
+# 🌈Hey Hello Hi! I'm Angela Hu <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Shark.png" alt="Shark" width="50" height="50" />
 I'm currently pursuing a Bachelor of Science degree at McGill University, Majoring in Computer Science.
-* 🌱 Programming Languages: Java, Python, Bash, C, C#, R
+* 🌱 Programming Languages: Python, Java, JavaScript, C/C#, Bash, HTML/CSS, SQL, R
+
+## 🚀 Positions & Experiences
+  * Software Developer Intern/Summer Analyst: **@[Morgan Stanley](https://www.morganstanley.com/)**, 2024 Summer, Canada
+  * Research Assistant/Intern: **@[MILA - Quebec AI Institute](https://mila.quebec/en/directory/angela-hu)**, 2024 Feb – Present
+    * Deep Learning & Reinforcement Learning, Supervised by Prof. Glen Berseth and Prof. Blake Richards.
+  * Machine Learning Fellow: **@[AI4GoodLab at MILA](https://www.ai4goodlab.com/)**, 2023 Summer, Canada
+  * Research Developer: **@[RBC Borealis program](https://rbcborealis.com/lets-solve-it/)**, Weather vulnerability Research Project, 2024 Sept - 2024 Dec
+
+## ✨ Check out my projects:
+  * [The Techno Dungeon](https://github.com/Angelawork/Robots-Dungeon_3DGame): ⚔ A Unity 3D Dungeon crawlers Game
+
+<p align="center">
+    <img src="https://github.com/Angelawork/Robots-Dungeon_3DGame/assets/113480613/6050946f-2f5d-49f8-9ea4-6721860e2905" alt="Robots-Dungeon_3DGame" width="300">
+    <img src="https://github.com/Angelawork/Robots-Dungeon_3DGame/assets/113480613/5f9a5223-c87a-4b26-bf6d-192f6a2b05ea" alt="Robots-Dungeon_3DGame" width="300">
+    <img src="https://github.com/Angelawork/Robots-Dungeon_3DGame/assets/113480613/496af041-272c-43c2-99b8-dcabe446aef0" alt="Robots-Dungeon_3DGame" width="300">
+</p>
+
+  * [Adventure of The Fox](https://github.com/Angelawork/Adventure-of-The-Fox_2DGame): 🦊 A Unity 2D Platform game
+
+<p align="center">
+    <img src="https://github.com/Angelawork/Adventure-of-The-Fox_2DGame/assets/113480613/baee4904-9f8b-4983-bfaa-80de24f5dff1" alt="Unity 2D Platform game" width="300">
+    <img src="https://github.com/Angelawork/Adventure-of-The-Fox_2DGame/assets/113480613/2bab3d95-3117-49c4-8d55-772dcc9ac5c8" alt="Unity 2D Platform game" width="300">
+    <img src="https://github.com/Angelawork/Adventure-of-The-Fox_2DGame/assets/113480613/a2b06ad5-a018-4dd8-8315-b91a87728f61" alt="Unity 2D Platform game" width="300">
+</p>
+
+  * [Literalingo](https://sites.google.com/view/literalingo), 💡a translation app that will generate simple explanations catered to autistic individuals from texts in an image or copy-pasted into the app🎤
+  * [McGill AI Society: Kernel Project](https://gitlab.cs.mcgill.ca/thibaud.roy/mcgill-mais-kernel), 📈Collaborated within a project incubator group to develop an OCR-based platform, leveraging AWS Textract to streamline intelligent document management for a corporate client.
+  * [Towards a foundation model for EEG data](https://github.com/Angelawork/EEG-Foundation-model_LiNC-Lab_COMP396), 🧠This project collaborates with researchers at Mila to develop pre-trained transformer models for decoding electroencephalography (EEG) data signals, aiming to establish a robust framework for neural population dynamics analysis.
+  * [MedAdvisor](https://github.com/Angelawork/Drug-Recommendation_MAIS202), 💊An accessible drug recommendation model, tailors medication suggestions to patients' symptoms for enhanced healthcare outcomes utilizes machine learning👩‍⚕️
+
+<p align="center">
+    <img src="https://github.com/Angelawork/Drug-Recommendation_MAIS202/assets/113480613/0e49c9bf-e183-43cc-8571-e54eb9372c17" alt="MedAdvisor GUI" width="300">
+    <img src="https://github.com/Angelawork/Drug-Recommendation_MAIS202/assets/113480613/1e5f9523-dd51-484d-b91b-dbf9cef5de70" alt="app" width="300">
+</p>
+
+  * [ChinaMobile-Hackathon](https://github.com/Angelawork/ChinaMobile-Hackathon), 📱Effectively identify accounts exhibiting high-frequency access, account reuse, access from uncommon IP addresses, access during non-working hours, login anomalies, and other abnormal behaviours from the provided data access logs.
+  * [Space Shooter](https://github.com/Angelawork/SpaceShooter_3DGame): 🛸 A Unity 3D SpaceCraft shooting game
+
+<p align="center">
+    <img src="https://github.com/Angelawork/SpaceShooter_3DGame/assets/113480613/03a1143a-1438-4855-a1a0-d0d279876bc1" alt="SpaceCraft shooting game" width="300">
+</p>
+
+---
+* 📫 Reach me by: Qingchen.hu@mail.mcgill.ca
 * 🔥 Connect with me through <a href="https://www.linkedin.com/in/2004angelahu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-* ✨ Check out my projects:
-  * [Literalingo](https://sites.google.com/view/literalingo), 💡a translation app that will generate simple explanations catered to autistic individuals from texts in an image or copy-pasted into the app🎤
-  * [MedAdvisor](https://github.com/Angelawork/Drug-Recommendation_MAIS202), 💊An accessible drug recommendation model, tailors medication suggestions to patients' symptoms for enhanced healthcare outcomes utilizes machine learning👩‍⚕️
-* 📫 Reach me by: Qingchen.hu@mail.mcgill.ca
-
+    
 ## 💻 Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
@@ -61,3 +101,7 @@ I'm currently pursuing a Bachelor of Science degree at McGill University, Majori
 
 ---
 [![](https://visitcount.itsvg.in/api?id=angelawork&icon=6&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Angelawork&color=blueviolet&style=for-the-badge)
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="250" alt="animated hello">
+</p>
