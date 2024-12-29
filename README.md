@@ -2,7 +2,7 @@
 I'm currently pursuing a Bachelor of Science degree at McGill University, Majoring in Computer Science.
 * 🌱 Programming Languages: Python, Java, JavaScript, C/C#, Bash, HTML/CSS, SQL, R
 
-## 🚀 Positions & Experiences
+## 🚀 Positions & Experience
   * Software Developer Intern/Summer Analyst: **@[Morgan Stanley](https://www.morganstanley.com/)**, 2024 Summer, Canada
   * Research Assistant/Intern: **@[MILA - Quebec AI Institute](https://mila.quebec/en/directory/angela-hu)**, 2024 Feb – Present
     * Deep Learning & Reinforcement Learning, Supervised by Prof. Glen Berseth and Prof. Blake Richards.
