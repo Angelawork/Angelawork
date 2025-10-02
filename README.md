@@ -1,13 +1,18 @@
 # 🌈Hey Hello Hi! I'm Angela Hu <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Shark.png" alt="Shark" width="50" height="50" />
 I'm currently pursuing a Bachelor of Science degree at McGill University, Majoring in Computer Science.
 * 🌱 Programming Languages: Python, Java, JavaScript, C/C#, Bash, HTML/CSS, SQL, R
+* ⚙️ Frameworks & Libraries: SpringBoot, Django, Node.js, React, Flask, Pytorch, Pandas, Scikit-learn, GraphQL
+* 🔧 Tools: Git, Docker, AWS (EC2, S3, Lambda, DynamoDB), Jira, OpenTelemetry, Grafana, Unix/Linux, JUnit, LaTeX
+* 🎓 **[Google Scholar](https://scholar.google.com/citations?user=41hM13wAAAAJ)**
 
 ## 🚀 Positions & Experience
+  * Incoming Software Developer Intern: **@[Ericsson](https://www.ericsson.com/en)**, 2026 Winter, Canada
+  * Software Developer Intern: **@[Amazon](https://sell.amazon.com/fulfillment-by-amazon)**, 2025 Summer, Canada
   * Software Developer Intern/Summer Analyst: **@[Morgan Stanley](https://www.morganstanley.com/)**, 2024 Summer, Canada
-  * Research Assistant/Intern: **@[MILA - Quebec AI Institute](https://mila.quebec/en/directory/angela-hu)**, 2024 Feb – Present
+  * Research Assistant/Intern: **@[MILA - Quebec AI Institute](https://mila.quebec/en/directory/angela-hu)**, 2024 Feb – 2025 Mar
     * Deep Learning & Reinforcement Learning, Supervised by Prof. Glen Berseth and Prof. Blake Richards.
   * Machine Learning Fellow: **@[AI4GoodLab at MILA](https://www.ai4goodlab.com/)**, 2023 Summer, Canada
-  * Research Developer: **@[RBC Borealis program](https://rbcborealis.com/lets-solve-it/)**, Weather vulnerability Research Project, 2024 Sept - 2024 Dec
+  * Research Developer: **@[RBC Borealis program](https://rbcborealis.com/lets-solve-it/)**, Weather vulnerability Research Project, paper accepted to ACL 2025 (WXImpactBench, arXiv:2505.20249) 2024 Sept - 2024 Dec
 
 ## ✨ Check out my projects:
   * [The Techno Dungeon](https://github.com/Angelawork/Robots-Dungeon_3DGame): ⚔ A Unity 3D Dungeon crawlers Game
